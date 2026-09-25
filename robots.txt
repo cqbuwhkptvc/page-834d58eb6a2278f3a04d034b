@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.bcyykpg.cn/sitemap.xml
